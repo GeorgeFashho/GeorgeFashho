@@ -18,11 +18,11 @@
 
 
 
-### Contact with me 📝
+### Connect with me 📝
 
 [<img align="left" alt="GeorgeFashho | Resume" height="30px" src="https://cdn-icons-png.flaticon.com/512/2541/2541988.png" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://icons-for-free.com/iconfiles/png/512/high+quality+linkedin+media+social+social+media+square+icon-1320192631042614448.png"/>][linkedin]
+
 
 
 <br />
