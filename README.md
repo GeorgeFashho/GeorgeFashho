@@ -14,7 +14,6 @@
 
 ### Spotify Playing 🎧 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22vwzjq7bb4bim2lnym7jtona&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
