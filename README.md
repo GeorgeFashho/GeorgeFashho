@@ -51,7 +51,7 @@
 
 ---
 
-[website]: [http://bilgehangecici.site/](https://docs.google.com/document/d/1WM56yDGrkwQ7VzEAWTk4IyJKL6dNP6AW/edit?usp=sharing&ouid=107430771547303287613&rtpof=true&sd=true)
+[website]: https://docs.google.com/document/d/1WM56yDGrkwQ7VzEAWTk4IyJKL6dNP6AW/edit?usp=sharing&ouid=107430771547303287613&rtpof=true&sd=true
 [linkedin]: https://www.linkedin.com/in/george-fashho-92148413b/
 
 
