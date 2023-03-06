@@ -51,7 +51,7 @@
 
 ---
 
-[website]: https://docs.google.com/document/d/e/2PACX-1vT5A7cVZ7y2aGuZqAsJ4nnfip1I4-JQjheu-4SMKWJDxDSArqsgo6hm2oseenc1Ag/pub
+[website]: https://docs.google.com/document/d/1WM56yDGrkwQ7VzEAWTk4IyJKL6dNP6AW/edit?usp=sharing&ouid=107430771547303287613&rtpof=true&sd=true
 [linkedin]: https://www.linkedin.com/in/george-fashho-92148413b/
 
 
