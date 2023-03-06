@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on C/C++ backend and conducting research on real-world object detection utilizing computer vision techniques!
 - 📚 I’m currently learning Java and more about the C language
-- 💪🏼 Future Goals: Learn more about cyber security
+- 💪🏼 Future Goals: Learn more about Cyber Security
 
 ---
 
