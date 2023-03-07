@@ -24,7 +24,7 @@
 
 <div align = "center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&bg_color=00000000&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeFashho&layout=compact&theme=dark"/>
 
 </div>
