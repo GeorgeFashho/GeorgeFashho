@@ -10,20 +10,33 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+
+<div align = "center">
+  
 ### Spotify Playing 🎧 
+
+
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22vwzjq7bb4bim2lnym7jtona&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+</div>
 
+<div align = "center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&bg_color=00000000&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeFashho&layout=compact&theme=dark"/>
+
+</div>
+
+<div align = "center">
 
 ### Connect with me 📝
 
-[<img align="left" alt="GeorgeFashho | Resume" height="30px" src="https://cdn-icons-png.flaticon.com/512/2541/2541988.png" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://icons-for-free.com/iconfiles/png/512/high+quality+linkedin+media+social+social+media+square+icon-1320192631042614448.png"/>][linkedin]
+[<img  alt="GeorgeFashho | Resume" height="30px" src="https://cdn-icons-png.flaticon.com/512/2541/2541988.png" />][website]
+[<img  alt="bilgehangecici | LinkedIn" height="30px" src="https://icons-for-free.com/iconfiles/png/512/high+quality+linkedin+media+social+social+media+square+icon-1320192631042614448.png"/>][linkedin]
 
-
+</div>
 
 <br />
 
