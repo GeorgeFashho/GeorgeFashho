@@ -33,7 +33,7 @@
 
 ### Connect with me 📝
 
-[<img  alt="GeorgeFashho | Resume" height="30px" src="https://cdn-icons-png.flaticon.com/512/2541/2541988.png" />][website]
+
 [<img  alt="bilgehangecici | LinkedIn" height="30px" src="https://icons-for-free.com/iconfiles/png/512/high+quality+linkedin+media+social+social+media+square+icon-1320192631042614448.png"/>][linkedin]
 
 </div>
