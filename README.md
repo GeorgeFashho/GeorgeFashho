@@ -4,9 +4,9 @@
 
 ## I'm a Computer Science Student at the University of Illinois at Chicago 
 
-- 👨‍💻 I’m currently working on C/C++ backend and conducting research on real-world object detection utilizing computer vision techniques!
-- 📚 I’m currently learning Java and more about the C language
-- 💪🏼 Future Goals: Learn more about Cyber Security
+- 👨‍💻 I’m currently working on C/C++ backend side Project and interning as a SWE at a FinTech Company
+- 📚 I’m currently learning leetcode :(
+- 💪🏼 Future Goals: FAANG
 
 ---
 
