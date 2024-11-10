@@ -22,10 +22,27 @@
 </div>
 -->
 
-<div align = "center">
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeFashho&layout=compact&theme=dark"/>
+  ## 🚀 George's LeetCode & GitHub Stats
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -34,7 +51,7 @@
 ### Connect with me 📝
 
 
-[<img  alt="bilgehangecici | LinkedIn" height="30px" src="https://icons-for-free.com/iconfiles/png/512/high+quality+linkedin+media+social+social+media+square+icon-1320192631042614448.png"/>][linkedin]
+[<img  alt="bilgehangecici | LinkedIn" height="30px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png"/>][linkedin]
 
 </div>
 
