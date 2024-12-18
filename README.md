@@ -5,7 +5,7 @@
 ## I'm a Computer Science Student at the University of Illinois at Chicago 
 
 - 👨‍💻 I’m currently working on C/C++ backend side Project and interning as a SWE at a FinTech Company
-- 📚 I’m currently learning leetcode :(
+- 📚 I’m currently learning leetcode + personal project 
 - 💪🏼 Future Goals: FAANG
 
 ---
