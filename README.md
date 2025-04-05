@@ -2,11 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science Student at the University of Illinois at Chicago 
+## I'm a Computer Science Graduate from the University of Illinois currently working as a SWE I @ PayPal
 
-- 👨‍💻 I’m currently working on C/C++ backend side Project and interning as a SWE at a FinTech Company
-- 📚 I’m currently learning leetcode + personal project 
-- 💪🏼 Future Goals: FAANG
+- 👨‍💻 I’m currently working on various AI wrapper projects
+- 💪🏼 Future Goals: FAANG + Sell a startUp
 
 ---
 
