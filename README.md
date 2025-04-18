@@ -2,10 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science Graduate from the University of Illinois currently working as a SWE I @ PayPal
+## I'm a Computer Science Graduate from the University of Illinois, currently working as a SWE I @ PayPal
 
-- 👨‍💻 I’m currently working on various AI wrapper projects
-- 💪🏼 Future Goals: FAANG + Sell a startUp
+- 👨‍💻 atm -> developing redtables.AI
 
 ---
 
