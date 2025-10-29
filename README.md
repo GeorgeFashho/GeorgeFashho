@@ -21,7 +21,7 @@
 ## Stats & Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" height="230" />
+  <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" height="250" width ="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" height="230" />
 </p>
 <p align="center">
