@@ -1,86 +1,59 @@
-# Hey, I'm George! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hey, I'm George! 👋
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<p align="center">
+  <img alt="Animated developer at desk" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isCwaWZ36UOk/v0/-999x-999.gif" width="250" />
+</p>
 
-## I'm a Computer Science Graduate from the University of Illinois, currently working as a SWE I @ PayPal
+**SWE I @ PayPal · UIC CS alum**
 
-- 👨‍💻 atm -> developing redtables.AI
-
----
-
-<!--
-<div align = "center">
-  
-### Spotify Playing 🎧 
-
-
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22vwzjq7bb4bim2lnym7jtona&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
--->
-
-<div align="center">
-
-  ## 🚀 George's LeetCode & GitHub Stats
-
-  <br>
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<div align = "center">
-
-### Connect with me 📝
-
-
-[<img  alt="bilgehangecici | LinkedIn" height="30px" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png"/>][linkedin]
-
-</div>
-
-<br />
+- 👨‍💻 Currently building `redtables.AI`
 
 ---
+## Snapshot
 
-### Languages and Tools 🛠 
-
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C%2B%2B-blue)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
-
+- 🎓 MSc CS - Machine Learning at Georgia Institute of Technology (In Progress)
+- 🎓 B.S. Computer Science from the University of Illinois 
+- 💼 Software Engineer I at PayPal
 
 
 ---
 
-[website]: https://docs.google.com/document/d/1WM56yDGrkwQ7VzEAWTk4IyJKL6dNP6AW/edit?usp=sharing&ouid=107430771547303287613&rtpof=true&sd=true
-[linkedin]: https://www.linkedin.com/in/george-fashho-92148413b/
+## Stats & Activity
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" height="195" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="195" />
+</p>
 
+---
+
+## Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/george-fashho-92148413b/">
+    <img alt="LinkedIn" height="32" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" />
+  </a>
+
+</p>
