@@ -21,8 +21,8 @@
 ## Stats & Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" height="195" />
+  <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" height="230" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" height="230" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="195" />
