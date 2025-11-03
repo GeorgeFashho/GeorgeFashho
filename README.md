@@ -6,7 +6,7 @@
 
 **SWE I @ PayPal · UIC CS alum**
 
-- 👨‍💻 Currently building `redtables.AI`
+- 👨‍💻 Currently building `buildBook`
 
 ---
 ## Snapshot
