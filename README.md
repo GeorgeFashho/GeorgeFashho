@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## Featured Project
 
 <a href="https://github.com/GeorgeFashho/SwingCoach">
