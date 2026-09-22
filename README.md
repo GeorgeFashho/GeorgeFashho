@@ -6,7 +6,7 @@
 
 **SWE I @ PayPal · UIC CS alum**
 
-- 👨‍💻 Currently building `buildBook`
+- 👨‍💻 Currently building `SwingCoach`
 
 ---
 ## Snapshot
@@ -15,18 +15,6 @@
 - 🎓 B.S. Computer Science from the University of Illinois 
 - 💼 Software Engineer I at PayPal
 
-
----
-
-## Stats & Activity
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/tylerfoodforthought?ext=activity&theme=dark&animation=true" alt="LeetCode Activity Card" height="250" width ="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeFashho&layout=compact&theme=dark" alt="Top Languages" height="230" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeFashho&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="195" />
-</p>
 
 ---
 
