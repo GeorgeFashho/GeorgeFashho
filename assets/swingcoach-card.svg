@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="SwingCoach - on-device golf swing analysis for iOS">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B2E1A"/>
+      <stop offset="60%" stop-color="#14532D"/>
+      <stop offset="100%" stop-color="#1B6B3E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="280" rx="18" fill="url(#cbg)"/>
+  <rect x="0.75" y="0.75" width="898.5" height="278.5" rx="17.25" fill="none" stroke="#35C878" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <!-- ============ phone mockup ============ -->
+  <rect x="48" y="32" width="132" height="216" rx="20" fill="#06150D" stroke="#35C878" stroke-opacity="0.45" stroke-width="2"/>
+  <rect x="98" y="38" width="32" height="5" rx="2.5" fill="#35C878" fill-opacity="0.35"/>
+
+  <text x="114" y="62" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="8" font-weight="700" fill="#6FCF97" letter-spacing="1.5">ANALYSIS</text>
+
+  <!-- ground line -->
+  <line x1="66" y1="166" x2="162" y2="166" stroke="#35C878" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <!-- pose skeleton: golfer at address, face-on -->
+  <g stroke="#9BE8C0" stroke-width="2.4" stroke-linecap="round" fill="none">
+    <path d="M114 84 L 114 93"/>
+    <path d="M101 94 L 127 94"/>
+    <path d="M114 94 L 114 128"/>
+    <path d="M104 128 L 124 128"/>
+    <path d="M104 128 L 100 146 L 98 164"/>
+    <path d="M124 128 L 128 146 L 130 164"/>
+    <path d="M101 94 L 107 112 L 114 119"/>
+    <path d="M127 94 L 121 112 L 114 119"/>
+  </g>
+  <circle cx="114" cy="76" r="7.5" fill="none" stroke="#9BE8C0" stroke-width="2.4"/>
+  <!-- club shaft + ball -->
+  <path d="M114 119 L 96 162" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M96 162 L 91 163" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="84" cy="163" r="3.4" fill="#FFFFFF"/>
+  <g fill="#35C878">
+    <circle cx="101" cy="94" r="2.6"/><circle cx="127" cy="94" r="2.6"/>
+    <circle cx="104" cy="128" r="2.6"/><circle cx="124" cy="128" r="2.6"/>
+    <circle cx="100" cy="146" r="2.4"/><circle cx="128" cy="146" r="2.4"/>
+    <circle cx="114" cy="119" r="2.8" fill="#FFFFFF"/>
+  </g>
+
+  <line x1="62" y1="178" x2="166" y2="178" stroke="#35C878" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- score -->
+  <text x="114" y="193" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="7" font-weight="700" fill="#6FCF97" letter-spacing="1.2">SWING SCORE</text>
+  <text x="114" y="215" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">82</text>
+
+  <!-- coaching pill -->
+  <rect x="62" y="224" width="104" height="18" rx="9" fill="#1F7A46"/>
+  <text x="114" y="236" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#DFF7E9">Fix first: Hip Sway</text>
+
+  <!-- ============ right panel ============ -->
+  <text x="214" y="86" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" letter-spacing="-0.8">SwingCoach</text>
+  <text x="215" y="115" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#9BE8C0">On-device golf swing analysis for iOS</text>
+
+  <text x="215" y="146" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#CFEEDD">Film a swing, and Apple Vision body pose scores six</text>
+  <text x="215" y="166" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13.5" fill="#CFEEDD">fundamentals — then it names the one thing to fix.</text>
+
+  <!-- tech chips -->
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#DFF7E9">
+    <rect x="214" y="190" width="62" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.12"/>
+    <text x="245" y="207" text-anchor="middle">Swift</text>
+    <rect x="284" y="190" width="74" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.12"/>
+    <text x="321" y="207" text-anchor="middle">SwiftUI</text>
+    <rect x="366" y="190" width="64" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.12"/>
+    <text x="398" y="207" text-anchor="middle">Vision</text>
+    <rect x="438" y="190" width="82" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.12"/>
+    <text x="479" y="207" text-anchor="middle">SwiftData</text>
+    <rect x="528" y="190" width="88" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.12"/>
+    <text x="572" y="207" text-anchor="middle">156 tests</text>
+  </g>
+
+  <text x="215" y="244" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#6FCF97">100% on-device &#183; no account &#183; no uploads</text>
+</svg>

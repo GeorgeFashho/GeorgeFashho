@@ -6,7 +6,7 @@
 
 **SWE I @ PayPal · UIC CS alum**
 
-- 👨‍💻 Currently building [**SwingCoach**](https://github.com/GeorgeFashho/SwingCoach) — on-device golf swing analysis for iOS
+- 👨‍💻 Currently building [**SwingCoach**](https://github.com/GeorgeFashho/SwingCoach) ⬇️
 
 ---
 ## Snapshot
@@ -17,6 +17,16 @@
 
 
 ---
+
+---
+
+## Featured Project
+
+<a href="https://github.com/GeorgeFashho/SwingCoach">
+  <img alt="SwingCoach - on-device golf swing analysis for iOS" src="assets/swingcoach-card.svg" width="100%" />
+</a>
+
+I'm learning to golf and ended up with a camera roll full of swing videos I couldn't actually read. So I built **[SwingCoach](https://github.com/GeorgeFashho/SwingCoach)**: film a swing, and Apple Vision body pose scores six fundamentals against known-good ranges, then names the single thing to fix. Everything runs on the phone.
 
 ## Languages & Tools
 
