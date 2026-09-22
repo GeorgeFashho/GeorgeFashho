@@ -1,20 +1,23 @@
 # Hey, I'm George! 👋
 
-<p align="center">
-  <img alt="Animated developer at desk" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isCwaWZ36UOk/v0/-999x-999.gif" width="250" />
-</p>
+<table>
+<tr>
+<td valign="top" width="58%">
 
-**SWE I @ PayPal · UIC CS alum**
+### Software Engineer I @ PayPal &nbsp;·&nbsp; Chicago, IL
 
-- 👨‍💻 Currently building [**SwingCoach**](https://github.com/GeorgeFashho/SwingCoach) ⬇️
+- 🎓 &nbsp;MSc Computer Science, Machine Learning — **Georgia Tech** *(in progress)*
+- 🎓 &nbsp;BS Computer Science — **University of Illinois Chicago**
+- 👨‍💻 &nbsp;Currently building **[SwingCoach](https://github.com/GeorgeFashho/SwingCoach)** — on-device golf swing analysis for iOS
+- 🏌️ &nbsp;Learning to golf, which is how SwingCoach happened
+- ⚡ &nbsp;Day to day: Java, Python, SQL, Kafka, Snowflake
 
----
-## Snapshot
-
-- 🎓 MSc CS - Machine Learning at Georgia Institute of Technology (In Progress)
-- 🎓 B.S. Computer Science from the University of Illinois 
-- 💼 Software Engineer I at PayPal
-
+</td>
+<td valign="top" width="42%">
+<img alt="Animated developer at desk" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isCwaWZ36UOk/v0/-999x-999.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
