@@ -7,9 +7,8 @@
 ### Software Engineer I @ PayPal &nbsp;·&nbsp; Chicago, IL
 
 - 🎓 &nbsp;MSc Computer Science, Machine Learning — **Georgia Tech** *(in progress)*
-- 🎓 &nbsp;BS Computer Science — **University of Illinois Chicago**
+- 🎓 &nbsp;BS Computer Science — **University of Illinois**
 - 👨‍💻 &nbsp;Currently building **[SwingCoach](https://github.com/GeorgeFashho/SwingCoach)** — on-device golf swing analysis for iOS
-- 🏌️ &nbsp;Learning to golf, which is how SwingCoach happened
 - ⚡ &nbsp;Day to day: Java, Python, SQL, Kafka, Snowflake
 
 </td>
